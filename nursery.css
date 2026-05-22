@@ -236,6 +236,28 @@ footer {
 }
 
 
+.cart-icon{
+    position: relative;
+    list-style: none;
+}
+
+.cart-icon a{
+    color: black;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.cart-count{
+    position: absolute;
+    top: -8px;
+    right: -10px;
+    background: green;
+    color: white;
+    border-radius: 50%;
+    padding: 2px 6px;
+    font-size: 12px;
+}
+
 
 
 
